@@ -15,14 +15,14 @@ fn main() {
     println!("name is {name}");
     println!("number is {finalnumber}");
 }
-
+//---------------------------------------------
 fn ask_name(name: &mut String) {
     println!("input name");
     io::stdin()
             .read_line(name)
             .expect("Failed to read line");
 }
-
+//---------------------------------------------
 fn ask_number1() -> u32 {
     println!("input a number");
     let mut n1 = String::new();
@@ -33,7 +33,7 @@ fn ask_number1() -> u32 {
 
     n1
 }
-
+//---------------------------------------------
 fn ask_number2() -> u32 {
     println!("input a number");
     let mut n2 = String::new();
@@ -44,7 +44,7 @@ fn ask_number2() -> u32 {
 
     n2
 }
-
+//---------------------------------------------
 fn add_numbers(n1: u32,n2: u32) -> u32 {
     let finalnumber = n1 + n2;
     finalnumber
