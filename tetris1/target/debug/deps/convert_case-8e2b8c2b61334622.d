@@ -1,0 +1,11 @@
+/home/koelslaw/Documents/Rust/tetris1/target/debug/deps/convert_case-8e2b8c2b61334622.d: /home/koelslaw/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/convert_case-0.7.1/src/lib.rs /home/koelslaw/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/convert_case-0.7.1/src/boundary.rs /home/koelslaw/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/convert_case-0.7.1/src/case.rs /home/koelslaw/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/convert_case-0.7.1/src/converter.rs /home/koelslaw/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/convert_case-0.7.1/src/pattern.rs
+
+/home/koelslaw/Documents/Rust/tetris1/target/debug/deps/libconvert_case-8e2b8c2b61334622.rlib: /home/koelslaw/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/convert_case-0.7.1/src/lib.rs /home/koelslaw/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/convert_case-0.7.1/src/boundary.rs /home/koelslaw/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/convert_case-0.7.1/src/case.rs /home/koelslaw/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/convert_case-0.7.1/src/converter.rs /home/koelslaw/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/convert_case-0.7.1/src/pattern.rs
+
+/home/koelslaw/Documents/Rust/tetris1/target/debug/deps/libconvert_case-8e2b8c2b61334622.rmeta: /home/koelslaw/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/convert_case-0.7.1/src/lib.rs /home/koelslaw/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/convert_case-0.7.1/src/boundary.rs /home/koelslaw/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/convert_case-0.7.1/src/case.rs /home/koelslaw/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/convert_case-0.7.1/src/converter.rs /home/koelslaw/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/convert_case-0.7.1/src/pattern.rs
+
+/home/koelslaw/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/convert_case-0.7.1/src/lib.rs:
+/home/koelslaw/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/convert_case-0.7.1/src/boundary.rs:
+/home/koelslaw/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/convert_case-0.7.1/src/case.rs:
+/home/koelslaw/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/convert_case-0.7.1/src/converter.rs:
+/home/koelslaw/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/convert_case-0.7.1/src/pattern.rs:
