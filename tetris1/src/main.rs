@@ -1,10 +1,28 @@
 use crossterm::event::{read, Event, KeyCode};
 use crossterm::terminal::{disable_raw_mode, enable_raw_mode};
+use std::process;
 
 fn main() -> Result<(), std::io::Error> {
-    enable_raw_mode()?;
 
-    println!("Press any key to see its code (Press 'q' to quit)");
+    
+    println!("_________________________________\n\n              TETRIS\n_________________________________");
+    println!("\n\n\n\nArrow keys <⌄> to Move");
+    println!("Q to Quit <NEEDS FIXING>");
+    println!("Press Space to start\n");
+    enable_raw_mode()?;
+        loop {
+        if let Event::Key(even) = read()? {
+            match even.code {
+                KeyCode::Char(' ') => break,
+                KeyCode::Char('q') => {
+                    process::exit(0);
+                },
+                key => print!(""),
+            }
+        }
+    }
+    println!("Starting!");
+
     
     loop {
         if let Event::Key(event) = read()? {
