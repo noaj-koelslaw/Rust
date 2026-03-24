@@ -15,6 +15,7 @@ fn main() -> Result<(), std::io::Error> {
             match even.code {
                 KeyCode::Char(' ') => break,
                 KeyCode::Char('q') => {
+                    disable_raw_mode()?;
                     process::exit(0);
                 },
                 key => print!(""),
